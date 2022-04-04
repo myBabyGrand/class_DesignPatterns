@@ -1,1 +1,17 @@
-# class_designPatterns
+# class_DesignPatterns
+ - SOLID Principle
+ - GRASP Principle
+ - Introduce of GoF 23 Patterns
+ - Strategy Pattern
+ - Observer Pattern
+ - Template Method
+ - Iterator Pattern
+ - State Pattern
+ - Mediator Pattern
+ - Factory Method & Abstract Factory Patterns
+ - Builder
+ - Singleton
+ - Decorator
+ - Adapter
+ - Composite
+ - Bridge
