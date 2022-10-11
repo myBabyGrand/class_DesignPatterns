@@ -1,4 +1,6 @@
 # class_DesignPatterns
+ - [Introduction To Design Pattern](/md/01.IntroductionToDesignPatterns.md)
+ - [Object Oriented Paradigm](/md/02.ObjectOrientedParadigm.md)
  - SOLID Principle
  - GRASP Principle
  - Introduce of GoF 23 Patterns
