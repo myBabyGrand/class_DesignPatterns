@@ -55,7 +55,7 @@ Object | Singleton|Composite| Observer
 Object | .|Decorator| State
 Object | .|.| Strategy
 
-![](/../img/100.jpg)
+![](/img/100.jpg)
 
 
 
